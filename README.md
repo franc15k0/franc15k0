@@ -6,6 +6,7 @@ Hello, welcome to my GitHub👋🎉
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="60" alt="Arch Linux Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" alt="Spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="60" alt="Quarkus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker" />
@@ -14,7 +15,7 @@ Hello, welcome to my GitHub👋🎉
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="50" alt="Kafka" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" width="60" alt="Oracle" />
 </p>
 
 
