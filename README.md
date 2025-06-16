@@ -8,7 +8,7 @@ Hello, welcome to my GitHub👋🎉
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.svg" width="150" alt="Arch Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" alt="Spring" />
-  <img src="https://quarkus.io/assets/images/quarkus_logo_horizontal_rgb_600px_reverse.png" width="60" alt="Quarkus" />
+  <img src="https://natancode.com/wp-content/uploads/2024/03/quarkus-logo.png" width="80" alt="Quarkus" />
  <img src="https://images.icon-icons.com/2699/PNG/512/reactjs_logo_icon_170805.png" width="140" alt="React" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker" />
   <img src="https://camo.githubusercontent.com/9c0c26d6cba1657a95cbe34462bfb13e05e87e4972c4630e0c90e2932cb61492/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b756265726e657465732f6b756265726e657465732d617232312e737667" width="130" alt="Kubernetes" />
