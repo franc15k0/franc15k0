@@ -18,7 +18,7 @@ Hello, welcome to my GitHub👋🎉
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="120" alt="Oracle" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" width="120" alt="Jboss" />
-  <img src="https://www.brcline.com/blog/aws-lambda-logging-best-practices/serverless-set-log-retention#main" width="120" alt="lambda" />
+  <img src="https://www.unimedia.tech/wp-content/uploads/2023/11/AWS-Lambda-e1701195645609.png" width="80" alt="lambda" />
 </p>
 
 
