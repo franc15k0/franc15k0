@@ -10,7 +10,7 @@ Hello, welcome to my GitHub👋🎉
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" alt="Spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="60" alt="Quarkus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" alt="Kubernetes" />
+  <img src="https://camo.githubusercontent.com/9c0c26d6cba1657a95cbe34462bfb13e05e87e4972c4630e0c90e2932cb61492/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b756265726e657465732f6b756265726e657465732d617232312e737667" width="110" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL" />
   <img src="https://camo.githubusercontent.com/5ef4f0f2e2396d358efe71fc497c5e54f8e70606c272d217c99adb5f9afa8f54/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f6b61666b612f6170616368655f6b61666b612d617232312e737667" width="120" alt="Kafka" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60" alt="Linux" />
