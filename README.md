@@ -17,6 +17,7 @@ Hello, welcome to my GitHub👋🎉
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="120" alt="Oracle" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" width="120" alt="Oracle" />
 </p>
 
 
