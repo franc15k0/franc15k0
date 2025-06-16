@@ -5,7 +5,7 @@ Hello, welcome to my GitHub👋🎉
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="60" alt="Java" />
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.svg" width="150" alt="Arch Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" alt="Spring" />
   <img src="https://natancode.com/wp-content/uploads/2024/03/quarkus-logo.png" width="80" alt="Quarkus" />
@@ -17,8 +17,11 @@ Hello, welcome to my GitHub👋🎉
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="120" alt="Oracle" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" width="120" alt="Jboss" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" width="90" alt="Jboss" />
   <img src="https://www.unimedia.tech/wp-content/uploads/2023/11/AWS-Lambda-e1701195645609.png" width="140" alt="lambda" />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="90" alt="Golang" />
+  <img src="https://images.seeklogo.com/logo-png/27/1/angular-logo-png_seeklogo-272813.png" width="90" alt="Angular" />
+  <img src="https://www.sphereinc.com/wp-content/uploads/2021/10/vue.webp" width="90" alt="Vue" />
 </p>
 
 
