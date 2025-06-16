@@ -6,7 +6,7 @@ Hello, welcome to my GitHub👋🎉
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arch_Linux_logo.svg" width="120" alt="Arch Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Archlinux-logo-standard-version.svg" width="150" alt="Arch Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" alt="Spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="60" alt="Quarkus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker" />
